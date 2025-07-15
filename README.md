@@ -55,27 +55,7 @@ I'm an IT undergraduate at the University of Moratuwa, specializing in **backend
 
 ---
 
-### 💻 Featured Projects
 
-#### [Blood Connect Mobile Application](https://github.com/tharsan01/blood-connect)
-- **Tools**: React Native, Node.js, Express.js, MySQL
-- A mobile app for blood donation, enabling donor registration, location-based matching, and real-time notifications for urgent blood requests.
-- Features: Donor-recipient matching by blood type and location, admin request system, and permanent donor registration.
-
-#### [User Management API](https://github.com/tharsan01/user-management-api)
-- **Tools**: Spring Boot, PostgreSQL, JPA, Spring Security, Swagger
-- A secure REST API for user management with full CRUD operations, role-based access control, and detailed logging using SLF4J.
-- Integrated Swagger for API documentation and testing.
-
-#### [Job Portal Application](https://github.com/tharsan01/job-portal)
-- **Tools**: Spring Boot, PostgreSQL, JPA, Swagger
-- A REST API for job postings with CRUD operations, robust exception handling, and clear API documentation via Swagger.
-
-#### [Bus Reservation System](https://github.com/tharsan01/bus-reservation)
-- **Tools**: Java, ArrayList
-- A Java-based application for managing bus bookings, seat availability, and capacity using object-oriented principles.
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
