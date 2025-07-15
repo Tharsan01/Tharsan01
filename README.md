@@ -1,85 +1,77 @@
+<!-- Centered Intro -->
 <div align="center">
-  <h1>👋 Hey, I'm Thavarasa Tharsan!</h1>
-  <h3>Passionate Backend Developer</h3>
-  <img src="https://komarev.com/ghpvc/?username=tharsan01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <h1>👋 Hey, I'm <span style="color:#0abde3;">Thavarasa Tharsan</span></h1>
+  <h3>💻 Passionate Backend Developer | 🌍 Based in Sri Lanka</h3>
+  <img src="https://komarev.com/ghpvc/?username=tharsan01&label=Profile+Views&color=0abde3&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
 
+<!-- About Me -->
 ### 🚀 About Me
-I'm an IT undergraduate at the University of Moratuwa, specializing in **backend development** with a knack for problem-solving and clean code. As a Software Engineering Intern at VVH Solutions, I build scalable backend services using **Node.js**, **Spring Boot**, and databases like **PostgreSQL** and **MongoDB**. I'm driven by a passion for learning, tackling challenges, and contributing to impactful projects.
 
-- 🌱 **Currently learning**: Advanced backend architectures and cloud-native development with **AWS**.
-- 💼 **Work**: Software Engineering Intern at VVH Solutions (April 2025 - Present).
-- 📫 **Reach me**: [th13arasa13@gmail.com](mailto:th13arasa13@gmail.com)
-- 🌍 **Based in**: Sandilipay, Jaffna, Sri Lanka
+I'm an IT undergraduate at the **University of Moratuwa**, specializing in backend development with a focus on scalable and maintainable systems. I work with modern technologies like **Spring Boot**, **Node.js**, **MongoDB**, and **PostgreSQL**. I'm always open to new ideas, challenges, and collaborative opportunities.
+
+- 🧑‍💻 **Intern @ VVH Solutions** – Building robust backend services (Apr 2025 - Present)
+- 🌱 **Currently Learning** – Microservices, Cloud (AWS), Docker, and Kubernetes
+- 📬 **Reach Me** – [at.tharsan01@gmail.com](mailto:at.tharsan01@gmail.com)
+- 📍 **Location** – Sandilipay, Jaffna, Sri Lanka
 
 ---
 
-### 🛠️ Skills
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
+<!-- Skills Section -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40" alt="AWS"/>
 </p>
 
 ---
 
-
-
+<!-- Connect with Me -->
 ### 🌐 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://linkedin.com/in/thavarasa-tharsan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/tharsan__01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:th13arasa13@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:at.tharsan01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<!-- GitHub Stats -->
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharsan01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharsan01&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharsan01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharsan01&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharsan01&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharsan01&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
 
+<!-- Final Message -->
 ### 🎯 What's Next?
-I'm excited to dive deeper into **cloud-native development**, explore **microservices**, and contribute to open-source projects. Let’s build something amazing together!
+
+I'm excited to explore more of cloud-native architecture and DevOps tooling, contribute to meaningful open-source projects, and keep sharpening my backend development skills. Let’s connect and build something amazing together 🚀
+
+---
+
