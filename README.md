@@ -14,7 +14,7 @@ I'm an IT undergraduate at the **University of Moratuwa**, specializing in backe
 
 - 🧑‍💻 **Intern @ VVH Solutions** – Building robust backend services (Apr 2025 - Present)
 - 🌱 **Currently Learning** – Microservices, Cloud (AWS), Docker, and Kubernetes
-- 📬 **Reach Me** – [at.tharsan01@gmail.com](mailto:at.tharsan01@gmail.com)
+- 📬 **Reach Me** – [tharsan0534@gmail.com](mailto:tharsan0534@gmail.com)
 - 📍 **Location** – Sandilipay, Jaffna, Sri Lanka
 
 ---
